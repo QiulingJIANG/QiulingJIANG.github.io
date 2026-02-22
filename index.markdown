@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# Welcome to my digital hamster den 🐹
+
 Notes sorted by:
 - [📚 Reading Notes](/categories/reading-notes/)
 - [📝 Work Notes](/categories/work-notes/)
