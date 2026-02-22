@@ -6,5 +6,5 @@ permalink: /categories/reading-notes/
 
 {% assign posts = site.categories["reading-notes"] %}
 {% for post in posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%Y-%m-%d" }}
+- {{ post.date | date: "%Y-%m-%d" }} : [{{ post.title }}]({{ post.url }})
 {% endfor %}
