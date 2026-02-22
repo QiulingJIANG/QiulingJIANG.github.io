@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Welcome to my digital hamster den 🐹
 ---
-
-## Welcome to my digital hamster den 🐹
 
 Notes sorted by:
 - [📚 Reading Notes](/categories/reading-notes/)
