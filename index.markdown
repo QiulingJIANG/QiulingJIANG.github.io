@@ -9,7 +9,7 @@ title: Welcome to my digital hamster den 🐹
 <li style="margin-bottom: 0.5em;">
   <span style="color: #828282; font-size: 1.0em;">{{ post.date | date: "%b %-d, %Y" }}</span>
   &nbsp;—&nbsp;
-  <a href="{{ post.url }}" style="font-size: 1.2em;">{{ post.title }}</a>
+  <a href="{{ post.url }}" style="font-size: 1.0em;">{{ post.title }}</a>
 </li>
 {% endfor %}
 </ul>
