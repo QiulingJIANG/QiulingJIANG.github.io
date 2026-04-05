@@ -6,7 +6,7 @@ categories: work-notes
 tags: linux, ubuntu, vasp, openmpi
 ---
 
-## Ubuntu configurations
+## Configurations
 
 1. CPU: Intel Xeon E5-2696 v4
 2. Socket: 2
