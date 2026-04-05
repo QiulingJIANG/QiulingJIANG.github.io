@@ -3,11 +3,7 @@ layout: post
 title: "Ubuntu—VASP installation"
 date: 04/04/2026
 categories: Work Notes
-tags:
-- linux
-- ubuntu
-- vasp
-- openmpi
+tags: linux, ubuntu, vasp, openmpi
 ---
 
 ## Ubuntu configurations
@@ -19,6 +15,7 @@ tags:
 5. Flags: AVX2, FMA3
 6. RAM: 64GB
 7. SSD: 500GB
+8. Ubuntu: 24.04.4
 
 ## Prepare
 
