@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu—VASP installation"
+title: "Ubuntu-VASP installation"
 date: 04/04/2026
 categories: work-notes
 tags: linux, ubuntu, vasp, openmpi
