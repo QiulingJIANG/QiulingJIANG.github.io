@@ -94,10 +94,10 @@ SlurmdLogFile=/var/log/slurm/slurmd.log
 
 # --- 节点与队列配置 ---
 # 核心设置：CPUs=44，下面的设置必须和单机的物理硬件匹配！
-NodeName=JQL24 CPUs=44 State=UNKNOWN
+NodeName=JQL24 CPUs=44  RealMemory=60000 State=UNKNOWN
 PartitionName=debug Nodes=JQL24 Default=YES MaxTime=INFINITE State=UP
 ```
-> note: 保持一个默认队列，单机够用了。
+> note: 保持一个默认队列，单机够用了。之前漏写`RealMemory` 这一项了，Slurm 就默认按 1MB 算，交作业就报内存问题，`60000` 代表 60,000MB（约 60GB），这是给 Slurm 管理的额度。
 
 3. 锁紧权限
 
