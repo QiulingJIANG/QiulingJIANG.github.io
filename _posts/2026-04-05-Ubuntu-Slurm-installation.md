@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu—VASP installation"
+title: "Ubuntu-Slurm installation"
 date: 05/04/2026
 categories: work-notes
 tags: linux, ubuntu, vasp, slurm
