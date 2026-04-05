@@ -18,11 +18,9 @@ With the generous help of AI (because let's be honest, I wouldn't have figured o
 - **Read more, forget less** — turning reading into actual learning
 - **Document the journey** — from computational electrochemistry to whatever rabbit hole I fall into next
 
-Think of it as my brain's external hard drive, open-sourced for anyone who might find it useful — or at least mildly entertaining.
+### About This Blog 🤔
 
-### About Me 🤔
-
-Just someone who loves 🐱 but is too scared to actually adopt one.
+Somewhere behind the telescreen there is an alcove. This is mine -- a place for notes on code, on molecules, on books that insist 2 + 2 = 4. **Nothing here is doubleplusgood.**
 
 ---
 
