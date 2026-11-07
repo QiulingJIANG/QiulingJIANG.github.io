@@ -23,6 +23,7 @@ description: Life is nothing but an electron looking for a place to rest. — Al
 url: "https://QiulingJIANG.github.io"
 github_username: QiulingJIANG
 baseurl: ""
+timezone: Asia/Tokyo
 theme: minima
 permalink: /:categories/:year/:month/:day/:title/
 header_pages: about.markdown
